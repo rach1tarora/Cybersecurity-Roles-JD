@@ -11,7 +11,7 @@ This includes both internships and Jobs
 2024 Summer Intern: Cybersecurity
 
 #### Network Engineer, Cybersecurity:
-Resolves network security infrastructure issues by troubleshooting and diagnosing through root cause analysis.
+* Resolves network security infrastructure issues by troubleshooting and diagnosing through root cause analysis.
 Enhances network security infrastructure by monitoring network performance.
 Installs network security infrastructure; assists team members with changes; works with suppliers and senior team members to review system performance.
 Assesses potential network security issues and identifies solutions.
