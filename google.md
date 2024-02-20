@@ -23,3 +23,9 @@ Experience in one or more of the following: Android reverse engineering (DEX, AR
 Preferred qualifications:
 Experience with Android application development in C++, Java, and/or Kotlin.
 Knowledge of security engineering, computer and network security, authentication, security protocols, and applied cryptography.
+
+Responsibilities
+Perform reverse engineering, analyze and detect malware at scale.
+Advocate security and secure practices throughout the Google Play and Android ecosystem.
+Conduct research to identify potential attack vectors against Android.
+Work with other team members to improve Android Security and Privacy knowledge of malware and propose methods to detect and mitigate them.
